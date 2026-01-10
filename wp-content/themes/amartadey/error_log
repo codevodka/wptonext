@@ -1,0 +1,8 @@
+[07-Nov-2024 13:36:18 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home7/hohvppsg/amartadey.com/wp-content/themes/amartadey/404.php:18
+Stack trace:
+#0 {main}
+  thrown in /home7/hohvppsg/amartadey.com/wp-content/themes/amartadey/404.php on line 18
+[08-Nov-2024 14:12:16 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home7/hohvppsg/amartadey.com/wp-content/themes/amartadey/404.php:18
+Stack trace:
+#0 {main}
+  thrown in /home7/hohvppsg/amartadey.com/wp-content/themes/amartadey/404.php on line 18

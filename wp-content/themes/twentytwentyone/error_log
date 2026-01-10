@@ -1,0 +1,12 @@
+[08-Jun-2024 22:07:23 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home7/hohvppsg/amartadey.com/wp-content/themes/twentytwentyone/index.php:17
+Stack trace:
+#0 {main}
+  thrown in /home7/hohvppsg/amartadey.com/wp-content/themes/twentytwentyone/index.php on line 17
+[12-Jun-2024 23:11:11 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home7/hohvppsg/amartadey.com/wp-content/themes/twentytwentyone/index.php:17
+Stack trace:
+#0 {main}
+  thrown in /home7/hohvppsg/amartadey.com/wp-content/themes/twentytwentyone/index.php on line 17
+[20-Nov-2024 13:02:54 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home7/hohvppsg/amartadey.com/wp-content/themes/twentytwentyone/index.php:17
+Stack trace:
+#0 {main}
+  thrown in /home7/hohvppsg/amartadey.com/wp-content/themes/twentytwentyone/index.php on line 17
